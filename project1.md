@@ -2,6 +2,9 @@
 
 `sudo apt install apache2`
 
+
+`sudo apt install apache2`
+
 `sudo systemctl status apache2`
 
 `curl http://127.0.0.1:80`
